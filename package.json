@@ -1,0 +1,24 @@
+{
+  "name": "merge-sort-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaikwangg/merge-sort-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jaikwangg/merge-sort-ts/issues"
+  },
+  "homepage": "https://github.com/jaikwangg/merge-sort-ts#readme",
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+}
